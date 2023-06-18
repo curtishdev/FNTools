@@ -6,9 +6,6 @@
      -=2023=-
      All rights reserved (C) 
      CurtishDEV (C) 2018 - 2023 
-*/
-
-﻿/*
 
 IniRead, HPCoords, %A_ScriptDir%\Config.ini, HPAlerts, HPCoords
 IniRead, BPCoords, %A_ScriptDir%\Config.ini, BattlePass, BPCoords
