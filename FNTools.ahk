@@ -1,3 +1,13 @@
+﻿/*     
+     FNTools Aim Assist
+     New colors, working
+     [UNDETECT] 2023
+     Developed by curtishDEV
+     -=2023=-
+     All rights reserved (C) 
+     CurtishDEV (C) 2018 - 2023 
+*/
+
 ﻿/*
 
 IniRead, HPCoords, %A_ScriptDir%\Config.ini, HPAlerts, HPCoords
